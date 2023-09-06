@@ -12,3 +12,5 @@ To forecast the future values of the company’s stock. It aims to visualise and
 - Language: Python
 - Software: VS Code 2019, Jupyter Notebook
 - Framework: Streamlit
+
+![image](https://github.com/PriyaGupta27/stock-price-forecasting/assets/125092015/13e2bd62-4aa0-4ec6-a385-ea98ae21ecc3)
